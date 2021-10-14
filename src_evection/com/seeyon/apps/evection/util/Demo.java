@@ -1,4 +1,4 @@
 package com.seeyon.apps.evection.util;
 
-public class Test {
+public class Demo {
 }
